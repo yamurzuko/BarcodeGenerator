@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "O//pKQBkdUNT1PsKyqCCIYtCA371gc68Mpu2+1MYZUfdT/6xBRvdte7uuOvtiouiUnNf7eSRo/ZFj5OIvTkKhg==",
+  "success": true,
+  "projectFilePath": "/Users/ugurcanyagmur/Projects/BarcodeGenerator/BarcodeGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/ugurcanyagmur/.nuget/packages/barcode/2022.8.8024/barcode.2022.8.8024.nupkg.sha512",
+    "/Users/ugurcanyagmur/.nuget/packages/barcodelib/2.4.0/barcodelib.2.4.0.nupkg.sha512",
+    "/Users/ugurcanyagmur/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/ugurcanyagmur/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/Users/ugurcanyagmur/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512",
+    "/Users/ugurcanyagmur/.nuget/packages/system.text.json/5.0.2/system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
